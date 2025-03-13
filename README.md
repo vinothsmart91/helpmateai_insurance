@@ -50,7 +50,9 @@ This project demonstrates a **RAG (Retrieval Augmented Generation)** framework d
    - `bge-small-en-v1.5`  
 
 3. **Sub-Question Querying**:  
-   Implemented a sub-question structure for faster, smoother querying.  
+   Implemented a sub-question structure for faster, smoother querying.
+
+Testing the Pull request
 
 --- 
 
